@@ -45,7 +45,7 @@ Welcome to my Airbnb Data Visualization project! This dashboard was built using 
 
 **Areeya Shaikh**  
 📍 Passionate about Data Analytics & Visualization  
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/areeyashaikh/)*
+🔗 *[Connect with me on LinkedIn](https://www.linkedin.com/in/areeyashaikh/)*
 
 ---
 

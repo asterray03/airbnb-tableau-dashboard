@@ -15,7 +15,7 @@ Welcome to my Airbnb Data Visualization project! This dashboard was built using 
 - 🔢 **Bedroom Listing Count** – Total listings by bedroom category.
 
 📸 **Dashboard Preview**:
-> *(Insert screenshot image here named `dashboard_preview.png`)*
+> *![dashboard_preview](https://github.com/user-attachments/assets/1b6c8916-d996-4c72-ba76-851d2431a1fb)*
 
 ---
 
